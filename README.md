@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-ultimo-tren-a-casa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: El último tren a casa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-tren-a-casa/) |
+| **Get License** | [Get License For El último tren a casa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-tren-a-casa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `339318c392240e0c058bb4c91f1c907a55bc577a9b7eb137e4e2ec3286cbb4c9` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

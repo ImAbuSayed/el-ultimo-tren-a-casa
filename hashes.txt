@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El último tren a casa
+
+This log tracks the cryptographic history and versioning for the song **El último tren a casa** (el-ultimo-tren-a-casa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:42:10.145470 | `v1` | `339318c392240e0c058bb4c91f1c907a55bc577a9b7eb137e4e2ec3286cbb4c9` | `4a8ff9907adf30875c69f28dd848de39562eb47bbcf0d7252c7c5c167a0e3f19` | `2026-06-14_el-ultimo-tren-a-casa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
